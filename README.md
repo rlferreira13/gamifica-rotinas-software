@@ -16,4 +16,4 @@ O projeto obedece à estrutura de 3 camadas:
 - **[FINAL] 07/06:** Refatoração de código, tratamento avançado de sessões e implementação de Dashboard Analítico (BI) de produtividade.
 
 ## 👨‍💻 Desenvolvedor
-- Ricardo (Chefe de Departamento de TI / Aluno)
+- Ricardo Luiz Ferreira
