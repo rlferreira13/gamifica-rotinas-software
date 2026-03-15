@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Validação bruta: Não permite envio de lixo vazio
     if (empty($titulo) || empty($data_limite) || $xp_recompensa <= 0) {
-        die("Erro de validação: Dados obrigatórios ausentes ou XP inválido.");
+        die("Erro de validação: Campos obrigatórios em branco ou inválidos.");
     }
 
     $sql = "INSERT INTO tarefas (titulo, descricao, responsavel_id, data_limite, xp_recompensa) 
