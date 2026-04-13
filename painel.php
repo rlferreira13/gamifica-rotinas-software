@@ -76,5 +76,8 @@ $users = $pdo->query($sqlUsers)->fetchAll();
             <?php endforeach; ?>
         <?php endif; ?>
     </div>
+    <div style="text-align: center; margin-top: 20px;">
+    <a href="index.php" style="color: #4CAF50; text-decoration: none; font-weight: bold;">⬅ Cadastrar Nova Missão</a>
+</div>
 </body>
 </html>

@@ -46,6 +46,9 @@
 
         <button type="submit">Gravar Missão no Banco</button>
     </form>
+    <div style="text-align: center; margin-top: 15px;">
+    <a href="painel.php" style="color: #4CAF50; text-decoration: none; font-weight: bold;">Ir para o Painel de Missões ➔</a>
+</div>
 </div>
 
 </body>
