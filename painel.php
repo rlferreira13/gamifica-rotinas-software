@@ -77,7 +77,13 @@ $users = $pdo->query($sqlUsers)->fetchAll();
         <?php endif; ?>
     </div>
     <div style="text-align: center; margin-top: 20px;">
-    <a href="index.php" style="color: #4CAF50; text-decoration: none; font-weight: bold;">⬅ Cadastrar Nova Missão</a>
+   <div style="text-align: center; margin-top: 20px;">
+    <a href="index.php" style="color: #4CAF50; text-decoration: none; font-weight: bold;">⬅ Cadastrar Missão</a> | 
+    
+    <a href="loja.php" style="color: #FFD700; text-decoration: none; font-weight: bold;">Ir para a Loja ➔</a>
+</div>
+
+    
 </div>
 </body>
 </html>
