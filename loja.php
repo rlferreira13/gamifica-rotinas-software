@@ -67,6 +67,7 @@ $recompensas = $pdo->query($sqlRecompensas)->fetchAll();
         <div class="nav">
             <a href="index.php">⬅ Cadastrar Missão</a> | 
             <a href="painel.php">Ir para o Painel ➔</a>
+            <a href="dashboard.php">Ir para o dasboard ➔</a>
         </div>
     </div>
 </body>

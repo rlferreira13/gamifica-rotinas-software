@@ -51,8 +51,8 @@
     <div style="text-align: center; margin-top: 15px;">
 
     <a href="painel.php" style="color: #4CAF50; text-decoration: none; font-weight: bold;">Ir para o Painel ➔</a> | 
-    
     <a href="loja.php" style="color: #FFD700; text-decoration: none; font-weight: bold;">Ir para a Loja ➔</a>
+    <a href="dashboard.php" style="color: #FFD700; text-decoration: none; font-weight: bold;">Ir para o dasboard ➔</a>
 </div>
 </div>
 </div>
